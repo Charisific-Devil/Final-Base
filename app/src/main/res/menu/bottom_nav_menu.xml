@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_today"
+        android:icon="@drawable/ic_today"
+        android:title="@string/title_today" />
+
+    <item
+        android:id="@+id/navigation_weekly"
+        android:icon="@drawable/ic_week"
+        android:title="@string/title_weekly" />
+
+    <item
+        android:id="@+id/Dark_Mode"
+        android:icon="@drawable/ic_dark"
+        android:title="Dark Mode" />
+
+    <item
+        android:id="@+id/Text_to_voice"
+        android:icon="@drawable/ic_t2vr"
+        android:title="Text-to-Voice"/>
+
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="@string/title_share" />
+
+
+
+
+</menu>
